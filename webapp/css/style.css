@@ -1,0 +1,53 @@
+.container-login{
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+.login-input{
+    margin: 10px auto;
+    width: 45%;
+    height: 10%;
+}
+
+#btn-login{
+    display: block;
+    margin: 10px auto;
+    width: 45%;
+    height: 10%;
+}
+
+#error-id {
+    display: none;
+    color: red;
+}
+
+.header-my {
+    margin: 10px auto;
+    text-align: center;
+}
+
+.container-products {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.align-center {
+    display: flex;
+    align-items: center;
+}
+
+#text-center {
+    text-align: center;
+}
+
+#btn-deposit {
+    margin-left: 20px;
+}
+
+.input_purchase {
+    margin-right: 10%;
+}
+.btn_purchase {
+    margin-left: 10%;
+}
